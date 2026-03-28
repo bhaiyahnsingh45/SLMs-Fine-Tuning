@@ -665,6 +665,11 @@ slm-fine-tuning/
 └── README.md  ← you are here
 ```
 
+## GPU RAM requirements for SLM fine-tuning
+Estimates at batch size 1, sequence length 512, with AdamW optimizer. Actual usage varies ±15%.
+
+<img width="736" height="572" alt="image" src="https://github.com/user-attachments/assets/66c5f7c1-2449-43cd-86c1-2a5451da3fe1" />
+
 ---
 
 ## 🚦 TL;DR — The 3 Rules of SLM Fine-Tuning
